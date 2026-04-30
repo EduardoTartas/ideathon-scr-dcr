@@ -65,7 +65,7 @@ export function PontosDeColetaPage() {
 
         <Card className="border-none bg-primary/10">
           <CardHeader>
-            <CardTitle className="text-lg">Mapa de Vilhena, RO (mock)</CardTitle>
+            <CardTitle className="text-lg">Mapa de Vilhena, RO</CardTitle>
             <p className="text-sm text-muted-foreground">
               Visualizacao ilustrada com os pontos ativos.
             </p>

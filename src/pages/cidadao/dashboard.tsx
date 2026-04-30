@@ -84,7 +84,7 @@ export function CidadaoDashboardPage() {
             {loading ? (
               <Skeleton className="h-8 w-24 bg-primary-foreground/20" />
             ) : (
-              <p className="text-3xl font-semibold">R$ 18.500</p>
+              <p className="text-3xl font-semibold">R$ 3.652</p>
             )}
             <p className="text-xs text-primary-foreground/80">
               Cada descarte correto reduz custos de limpeza urbana.
